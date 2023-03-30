@@ -1,6 +1,10 @@
 # Self Evaluation
 
 - How confident do you feel in your understanding and fluency with the `for` statement?
+  - I feel a bit more confident after finally getting through a period of unproductive struggle. I know that I need more practice because I feel like I am still very dependent on notes.
 - This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
+  - This was a very challenging assignment; I got very lost for a while and had to walk away because I was just not able to clear my head. When I came back and dug into the research, I finally had a break through and started to understand things better. It was painful, but it felt great once things started to fall into place.
 - What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
+  - I feel like I need to practice everything we covered in Segment 3 because I am still very dependent on my notes. I am going to rearrange my calendar tomorrow to give myself time to review everything and transfer my handwritten notes into a digital format; 
 - What questions do you still have? How will you get the answers you need?
+  - One thing I am a bit confused about is why the condition statement is written as < arrayName.length for pretty much every for statement we practiced. For example, in the weather challenge, we wanted a sentence for each string in the array, so it returned a sentence for each element, which was === to the arrayName.length. I am hoping to ask this question in class tomrrow because I could not find anything online that made sense to me,
